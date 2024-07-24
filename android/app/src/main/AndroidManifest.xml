@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="co.timsmart.emulators_demo">
+    package="co.timsmart.flutter_emulators_screenshots_demo">
    <application
-        android:label="emulators_demo"
+        android:label="flutter_emulators_screenshots_demo"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

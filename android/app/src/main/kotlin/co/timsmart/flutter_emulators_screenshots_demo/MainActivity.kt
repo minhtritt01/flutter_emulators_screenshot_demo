@@ -1,4 +1,4 @@
-package co.timsmart.emulators_demo
+package co.timsmart.flutter_emulators_screenshots_demo
 
 import io.flutter.embedding.android.FlutterActivity
 
