@@ -4,6 +4,7 @@ A demo project for using the `emulators` package to generate screenshots.
 
 ## Usage
 
+0. run `xcrun simctl list` show emulators iOS, run `emulator -list-avds` to show list of devices Android
 1. Make sure you have xcode and Android Studio setup correctly. `flutter doctor`
    should report no issues.
 2. Setup flutter project as usual (`flutter pub get` etc).
